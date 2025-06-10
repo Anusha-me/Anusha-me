@@ -42,15 +42,16 @@ I’m **Anusha Durgam**, a passionate **AI/ML Developer** and **Data Analyst** s
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch" />
-  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />&nbsp;
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi" />&nbsp;
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau" />&nbsp;
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow" />&nbsp;
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch" />&nbsp;
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud" />&nbsp;
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws" />
 </p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sql,tableau,powerbi,github,git,aws,gcp&theme=light" />
