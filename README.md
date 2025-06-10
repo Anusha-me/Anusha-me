@@ -64,10 +64,6 @@ I’m **Anusha Durgam**, a passionate **AI/ML Developer** and **Data Analyst** s
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,jupyter,tensorflow,pytorch,sql,tableau,powerbi,git,github,aws,gcp&theme=dark" alt="Skill Icons" />
-</p>
-
 
 ---
 
