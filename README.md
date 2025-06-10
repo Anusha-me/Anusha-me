@@ -58,39 +58,14 @@ I’m **Anusha Durgam**, a passionate **AI/ML Developer** and **Data Analyst** s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anusha-me&show_icons=true&theme=default&count_private=true&hide_title=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anusha-me&theme=default" width="400"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anusha-me&theme=light&bg_color=ffffff&color=4c71f2&line=4c71f2&point=444444&hide_border=false" width="100%"/>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anusha-me&theme=flat&no-frame=true&row=1" />
-</p>
-
----
-
 ## 🔗 Let’s Connect
 
 <p align="center">
   <a href="https://github.com/Anusha-me"><img src="https://img.shields.io/badge/GitHub-Anusha--me-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/dg-anushha"><img src="https://img.shields.io/badge/LinkedIn-Anusha%20Durgam-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:anushhadurgam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:anushad@usf.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-<h3 align="center">💡 Let’s build the future — one model, one insight at a time!</h3>
+<h3 align="center">💡Turning data into decisions, and models into momentum.</h3>
