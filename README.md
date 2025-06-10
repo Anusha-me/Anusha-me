@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-07c?style=flat-square&logo=github" alt="Hire Me Badge" />
+  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Data%20Analytics%20Roles-07c?style=flat-square&logo=github" alt="Hire Me Badge" />
 </p>
 
 ---
@@ -15,20 +15,18 @@
 
 I’m **Anusha Durgam**, a passionate **AI/ML Developer** and **Data Analyst** specializing in transforming data into actionable insights and intelligent systems.
 
-- 🎓 Master's in **Data Intelligence**, University of South Florida (2025)
-- 🧪 Skilled in deep learning (ANN, CNN, LSTM), forecasting, NLP, and computer vision
-- 🛠️ Tools: Python, SQL, Power BI, GCP, AWS, Scikit-learn, TensorFlow, PyTorch
-- 🚀 Researcher | Builder | Explorer | Innovator
+- 🎓 Master's in **Data Intelligence**, University of South Florida (2025)  
+- 🧪 Skilled in deep learning (ANN, CNN, LSTM), forecasting, NLP, and computer vision  
+- 🛠️ Tools: Python, SQL, Power BI, GCP, AWS, Scikit-learn, TensorFlow, PyTorch  
+- 🚀 Researcher | Builder | Explorer | Innovator  
 
 ---
 
 ## 📌 Highlight Projects
 
 - 🔮 **Bitcoin Price Prediction** with ANN-LSTM hybrid forecasting  
-- 🦿 **Gesture-Controlled Robot** with MediaPipe + PyBullet  
 - 🛡️ **Credit Card Fraud Detection** using SHAP explainability  
-- 🎬 **Movie Recommendation System** (collaborative filtering)  
-- 📊 **Customer Churn & IMDB Dashboards** (Power BI)
+- 📊 **Customer Churn & IMDB Dashboards** (Power BI)  
 
 ---
 
@@ -37,23 +35,24 @@ I’m **Anusha Durgam**, a passionate **AI/ML Developer** and **Data Analyst** s
 - 📃 Presented at USF Graduate Research Symposium 2025  
 - 📚 Published work in ML forecasting and accessibility NLP  
 - 🧠 Trained multiple ML models across structured & unstructured data  
-- 🌎 Projects used in healthcare, robotics, and finance domains
+- 🌎 Projects used in healthcare, retail, and finance domains  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sql,github,git,aws,gcp&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sql,tableau,powerbi,github,git,aws,gcp&theme=light" />
 </p>
 
 ---
@@ -68,4 +67,4 @@ I’m **Anusha Durgam**, a passionate **AI/ML Developer** and **Data Analyst** s
 
 ---
 
-<h3 align="center">💡Turning data into decisions, and models into momentum.</h3>
+<h3 align="center">💡 Turning data into decisions, and models into momentum.</h3>
