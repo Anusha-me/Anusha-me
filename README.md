@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Developer · Data Analyst · Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Innovator;Web+Development+Maestro;Creative+Tech+Visionary;Ready+to+Revolutionize+Tech!" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Innovator;Data+Analyst;Creative+Tech+Visionary;Ready+to+Revolutionize+Tech!" alt="Typing Animation"/>
 </p>
 
 <p align="center">
