@@ -102,4 +102,4 @@ I’m **Anusha Durgam**, a passionate **AI/ML Developer** and **Data Analyst** s
 
 ---
 
-<h3 align="center">💡 Turning data into decisions, and models into momentum. 💡</h3>
+<h3 align="center">💡 Turning data into decisions, and models into momentum 💡</h3>
