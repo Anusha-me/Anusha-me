@@ -8,11 +8,11 @@
 
 ### 🧠 About Me
 
-- 👩‍💻 AI/ML Developer & Data Analyst with a passion for turning data into real-world impact
-- 🔬 Skilled in Machine Learning, Deep Learning, Computer Vision & NLP
-- ☁️ Experienced with Python, SQL, Power BI, AWS/GCP, TensorFlow, PyTorch
-- 🚀 Currently working on ANN-LSTM forecasting
-- 🌟 Always learning, building, and exploring new ideas
+- 👩‍💻 AI/ML Developer & Data Analyst with a passion for turning data into real-world impact  
+- 🔬 Skilled in Machine Learning, Deep Learning, Computer Vision & NLP  
+- ☁️ Experienced with Python, SQL, Power BI, AWS/GCP, TensorFlow, PyTorch  
+- 🚀 Currently working on ANN-LSTM forecasting  
+- 🌟 Always learning, building, and exploring new ideas  
 
 ---
 
@@ -28,11 +28,5 @@
 
 ### 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dg-anushha)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dg-anushha)  
 - 💻 [GitHub](https://github.com/Anusha-me)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anusha-me&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=issues" alt="Anusha's GitHub stats" />
-</p>
