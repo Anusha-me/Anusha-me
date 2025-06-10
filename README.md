@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-07c?style=flat-square&logo=github" alt="Hire Me Badge" />
+  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20-Data Analytics%20Roles-07c?style=flat-square&logo=github" alt="Hire Me Badge" />
 </p>
 
 ---
